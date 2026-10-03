@@ -1,0 +1,5 @@
+course_id,course,total_assessments,passing_assessments,avg_score,pass_rate_pct
+C1,Excel,3,3,80.67,100.0
+C2,PowerBI,3,2,53.33,66.67
+C3,SQL,3,2,62.67,66.67
+C4,Python,3,1,49.33,33.33
